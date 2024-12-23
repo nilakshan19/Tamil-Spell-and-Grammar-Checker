@@ -1,0 +1,5 @@
+Sentence: நாங்கள் இன்று பயணம் செல்லப்போகின்றோம், ஆனால் அவன் நாளை போகின்றான் மற்றும் பலர் காத்திருக்கின்றனர்.
+Error: No grammatical errors found!
+
+Sentence: அவன் போகப்போகின்றேன்  நாளை.
+Error: No grammatical errors found!
