@@ -137,7 +137,8 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- **[Your Name]** - Project Creator & Maintainer
+-Nilakshan19
+-Reedas2000
 - Contributions from various collaborators in the areas of NLP and deep learning.
 
 ---
